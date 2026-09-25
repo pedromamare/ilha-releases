@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Ilha</title>
+    <link>https://github.com/pedromamare/ilha-releases</link>
+    <description>Versões do Ilha</description>
+    <language>pt-BR</language>
+  </channel>
+</rss>
