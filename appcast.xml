@@ -6,6 +6,14 @@
     <description>Versões do Ilha</description>
     <language>pt-BR</language>
     <item>
+      <title>Isle 1.0.4</title>
+      <pubDate>Thu, 01 Oct 2026 20:52:38 GMT</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/pedromamare/ilha-releases/releases/download/v1.0.4/Isle-1.0.4.dmg" sparkle:edSignature="atLASCakcBpTjHx2BBCqJXmiXuj54+sMcpS6BZpacHkLP96RM0q/AbTomJ2SDPxpG5T2VMBljppygk//mz/aAQ==" length="27351032" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Ilha 1.0.3</title>
       <pubDate>Thu, 01 Oct 2026 14:58:20 GMT</pubDate>
       <sparkle:version>4</sparkle:version>
