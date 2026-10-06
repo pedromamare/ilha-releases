@@ -6,6 +6,16 @@
     <description>Versões do Ilha</description>
     <language>pt-BR</language>
     <item>
+      <title>Isle 1.0.16</title>
+      <description><![CDATA[<h3>Novidades</h3><ul><li>Dá pra ver o que a IA está fazendo: no cartão das IAs aparece o seu pedido e a ação de agora (&quot;Editando main.swift&quot;, &quot;Rodando os testes&quot;), e a Ilhinha conta o pedido quando a IA começa e termina. Dá pra desligar em Ajustes › Ilhinha.</li><li>O balão da Ilhinha aparece sozinho, sem abrir a ilha pro lado. O que precisa de você (IA esperando, erro, limite) fica aberto até você fechar ou resolver, e volta depois do aviso de volume ou brilho. Todos os recados ficam guardados em Recados da Ilhinha, no menu … do hub, mesmo depois de fechar o app.</li><li>Responda às IAs pela ilha: quando uma sessão te espera, o cartão dela ganha Permitir e Negar (no Terminal e no iTerm) ou um campo para responder (em qualquer app, Codara inclusive).</li></ul>]]></description>
+
+      <pubDate>Tue, 06 Oct 2026 18:30:43 GMT</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>1.0.16</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/pedromamare/ilha-releases/releases/download/v1.0.16/Isle-1.0.16.dmg" sparkle:edSignature="sXcIH3qrOvnHSOxeZMG8nS4gswih3DF+59rGkasu6fjE0nz504fcH1GiR1/aCX8yVhkqZbCIK6/KS3NA3Xp9CQ==" length="27864008" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Isle 1.0.15</title>
       <description><![CDATA[<h3>Novidades</h3><ul><li>A Ilhinha agora fala com você: num balão embaixo dela, conta quando uma IA termina ou te espera, o limite de uso, o timer, o print, a música… Clicar no balão abre o que ela está contando. Cada aviso liga e desliga em Ajustes › Ilhinha.</li><li>O café e as IAs ficam sempre à direita do notch, sem pular de lado. Dá para escolher Esquerda ou Automático em Ajustes › Aparência › Ícones no notch.</li><li>Novidades dentro do app: depois de atualizar, o Isle mostra o que mudou. Dá para rever no menu … do hub, em Novidades.</li></ul>]]></description>
 
