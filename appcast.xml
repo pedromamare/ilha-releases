@@ -6,6 +6,16 @@
     <description>Versões do Ilha</description>
     <language>pt-BR</language>
     <item>
+      <title>Isle 1.0.17</title>
+      <description><![CDATA[<h3>Novidades</h3><ul><li>A Ilhinha ganhou rosto novo: olhos desenhados com 20 expressões (feliz, rindo, apaixonada, curiosa, desconfiada, pensando, brava, triste, tonta, ops…), e a troca entre elas é uma transformação com um pulinho elástico, não um corte.</li><li>Ela ficou mais viva: cochila quando você deixa o mouse parado, dorme depois de um tempo e acorda assustada quando você volta; leva um susto com o mouse muito rápido; e cada clique no rosto dela no hub mostra uma alegria diferente.</li><li>No monitor externo, em vez da linha, fica só a Ilhinha: uma pílula da altura da barra de menus com os olhos dela. Passe o mouse para ver a ilha inteira. Dá para voltar à linha em Ajustes › Aparência › Posição › Em repouso.</li><li>O recado de erro mostra um X, o de esperando você uma cara curiosa, e a música, ela ouvindo. Com o timer de foco correndo ela fica concentrada; com a bateria fraca, triste; quando o Isle falha em algo, envergonhada; e quando algo é bloqueado (falta de permissão, recurso desligado), brava. Cada um tem o seu interruptor em Ajustes › Ilhinha.</li><li>Os olhos dela ficaram maiores na ilha fechada, no MacBook e no monitor externo.</li></ul>]]></description>
+
+      <pubDate>Tue, 06 Oct 2026 20:04:28 GMT</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>1.0.17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/pedromamare/ilha-releases/releases/download/v1.0.17/Isle-1.0.17.dmg" sparkle:edSignature="JLCh6PnntisHSiwtM0DNBEnxCaSmP7z/uWIbt+mP/mZ/M6W7Zhug9L2WORO9TAiNe9eJrldyjelzxnodU97iDA==" length="27953560" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Isle 1.0.16</title>
       <description><![CDATA[<h3>Novidades</h3><ul><li>Dá pra ver o que a IA está fazendo: no cartão das IAs aparece o seu pedido e a ação de agora (&quot;Editando main.swift&quot;, &quot;Rodando os testes&quot;), e a Ilhinha conta o pedido quando a IA começa e termina. Dá pra desligar em Ajustes › Ilhinha.</li><li>O balão da Ilhinha aparece sozinho, sem abrir a ilha pro lado. O que precisa de você (IA esperando, erro, limite) fica aberto até você fechar ou resolver, e volta depois do aviso de volume ou brilho. Todos os recados ficam guardados em Recados da Ilhinha, no menu … do hub, mesmo depois de fechar o app.</li><li>Responda às IAs pela ilha: quando uma sessão te espera, o cartão dela ganha Permitir e Negar (no Terminal e no iTerm) ou um campo para responder (em qualquer app, Codara inclusive).</li></ul>]]></description>
 
