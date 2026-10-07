@@ -6,6 +6,16 @@
     <description>Versões do Ilha</description>
     <language>pt-BR</language>
     <item>
+      <title>Isle 1.0.20</title>
+      <description xml:lang="en"><![CDATA[<h3>What's New</h3><ul><li>A license with an end date or a paused one unlocks right away: once it is renewed or resumed, Isle checks as soon as the end date passes and every time you click the locked island, without waiting until the next day.</li></ul>]]></description>
+      <description xml:lang="pt-BR"><![CDATA[<h3>Novidades</h3><ul><li>Licença com prazo ou pausada destrava na hora: quando ela é renovada ou retomada, o Isle confere assim que o prazo vence e a cada clique na ilha travada, sem esperar o dia seguinte.</li></ul>]]></description>
+      <pubDate>Wed, 07 Oct 2026 12:45:26 GMT</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>1.0.20</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/pedromamare/ilha-releases/releases/download/v1.0.20/Isle-1.0.20.dmg" sparkle:edSignature="iAkjCUlYvNluc4D84+l3PGVVU3JyD3b6ICczUHIWAhiFTO8/cL+uS4v/mpita62hSLk3ga8iTNWhCq91amF0Dw==" length="28564129" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Isle 1.0.19</title>
       <description xml:lang="en"><![CDATA[<h3>What's New</h3><ul><li>Isle now speaks English: the whole app, Settings, notes and What&#x27;s New follow your Mac&#x27;s language (English or Portuguese). In Portuguese, Islet is called Ilhinha.</li><li>Isle license: a 3-day trial with everything unlocked, then a one-time purchase of US$ 14.99 at islenotch.com, good for up to 3 Macs. The key arrives by email; click &quot;Activate in Isle&quot; or paste it in Settings › License.</li><li>Settings › License shows your license, the Macs using it, and lets you deactivate this Mac to free up a slot. Lost your key? &quot;I Lost My Key&quot; sends it to your email again.</li></ul>]]></description>
       <description xml:lang="pt-BR"><![CDATA[<h3>Novidades</h3><ul><li>O Isle agora fala inglês: o app inteiro, os Ajustes, os recados e as novidades seguem o idioma do Mac (português ou inglês). Em inglês, a Ilhinha se chama Islet.</li><li>Licença do Isle: 3 dias de teste com tudo liberado e, depois, uma compra única de US$ 14,99 em islenotch.com, que vale para até 3 Macs. A chave chega por e-mail; clique em &quot;Ativar no Isle&quot; ou cole em Ajustes › Licença.</li><li>Em Ajustes › Licença você vê o estado da licença, os Macs em uso e pode desativar este Mac para liberar a vaga. Perdeu a chave? &quot;Perdi minha chave&quot; manda de novo para o seu e-mail.</li></ul>]]></description>
