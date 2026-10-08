@@ -6,6 +6,16 @@
     <description>Versões do Ilha</description>
     <language>pt-BR</language>
     <item>
+      <title>Isle 1.0.21</title>
+      <description xml:lang="en"><![CDATA[<h3>What's New</h3><ul><li>License changes take effect right away: with Isle open and online, pausing, revoking or freeing up a Mac reaches the app within seconds. If the Mac is off or offline, it applies as soon as it&#x27;s back, since Isle also checks when it opens, when you open the island and every few hours, no longer once a month. Nothing locks without internet: Isle never locks because you&#x27;re offline.</li></ul>]]></description>
+      <description xml:lang="pt-BR"><![CDATA[<h3>Novidades</h3><ul><li>Mudanças na licença valem na hora: com o Isle aberto e na internet, pausar, revogar ou liberar um Mac chega ao app em segundos. Com o Mac desligado ou offline, vale assim que ele voltar, porque o app também confere ao abrir, ao abrir a ilha e a cada poucas horas, não mais uma vez por mês. Sem internet nada trava: o Isle nunca trava por estar offline.</li></ul>]]></description>
+      <pubDate>Thu, 08 Oct 2026 12:38:53 GMT</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>1.0.21</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/pedromamare/ilha-releases/releases/download/v1.0.21/Isle-1.0.21.dmg" sparkle:edSignature="NXmLVRUgoMls2FsLSUIvFv5NGEBY9IfUAa4AMaoiZKV8xSjsRq6BtWw4k/p7gJsljfnlT2AI3XUG9O5h0vPRCQ==" length="28597448" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Isle 1.0.20</title>
       <description xml:lang="en"><![CDATA[<h3>What's New</h3><ul><li>A license with an end date or a paused one unlocks right away: once it is renewed or resumed, Isle checks as soon as the end date passes and every time you click the locked island, without waiting until the next day.</li></ul>]]></description>
       <description xml:lang="pt-BR"><![CDATA[<h3>Novidades</h3><ul><li>Licença com prazo ou pausada destrava na hora: quando ela é renovada ou retomada, o Isle confere assim que o prazo vence e a cada clique na ilha travada, sem esperar o dia seguinte.</li></ul>]]></description>
