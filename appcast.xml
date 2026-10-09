@@ -6,6 +6,16 @@
     <description>Versões do Ilha</description>
     <language>pt-BR</language>
     <item>
+      <title>Isle 1.0.24</title>
+      <description xml:lang="en"><![CDATA[<h3>What's New</h3><ul><li>Capture links with nothing to set up: the Create link button sends the image to i.islenotch.com and copies the link. No more Imgur Client ID. Your old Imgur uploads stay in the list and can still be deleted.</li></ul>]]></description>
+      <description xml:lang="pt-BR"><![CDATA[<h3>Novidades</h3><ul><li>Link da captura sem configurar nada: o botão Criar link manda a imagem para i.islenotch.com e copia o link. Acabou o Client ID do Imgur. Os envios antigos do Imgur continuam na lista e ainda dá para apagá-los.</li></ul>]]></description>
+      <pubDate>Fri, 09 Oct 2026 12:39:33 GMT</pubDate>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>1.0.24</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/pedromamare/ilha-releases/releases/download/v1.0.24/Isle-1.0.24.dmg" sparkle:edSignature="K3PtFeEuWNn0Lzv+g1XEvBmxnQwtbekUDEG9ja71No8dsmOuYzcjCbrMVWF+geisXB8yDfMU+0Jth5k8UwNQBA==" length="28643364" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Isle 1.0.23</title>
       <description xml:lang="en"><![CDATA[<h3>What's New</h3><ul><li>Automatic updates: Isle downloads new versions on its own and installs them once your Mac has been idle for 2 minutes, without asking and without cutting off a timer or a capture. After the restart, What&#x27;s New shows up as usual.</li><li>The What&#x27;s New window now opens in the middle of the screen you&#x27;re on.</li></ul>]]></description>
       <description xml:lang="pt-BR"><![CDATA[<h3>Novidades</h3><ul><li>Atualizações automáticas: o Isle baixa a versão nova sozinho e instala quando o Mac fica parado por 2 minutos, sem perguntar e sem interromper um timer ou uma captura. Depois de reiniciar, as novidades aparecem como sempre.</li><li>A janela de novidades abre no meio da tela em que você está.</li></ul>]]></description>
