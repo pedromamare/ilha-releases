@@ -6,6 +6,16 @@
     <description>Versões do Ilha</description>
     <language>pt-BR</language>
     <item>
+      <title>Isle 1.0.26</title>
+      <description xml:lang="en"><![CDATA[<h3>What's New</h3><ul><li>A fresh look for Settings: a glass window, colorful icons and a sidebar with only what you use. Usage and Capture are now a single page with tabs at the top, and modules that are off leave the list (turn them on in Modules).</li><li>About page: version, check for updates and send feedback straight to the person who makes Isle.</li><li>Shorter first-run setup: permissions come one at a time, explaining what each is for, and a new step teaches the island&#x27;s gestures.</li><li>In Permissions, Automation for an app that isn&#x27;t open (Terminal, Music) now has a Check button.</li></ul>]]></description>
+      <description xml:lang="pt-BR"><![CDATA[<h3>Novidades</h3><ul><li>Ajustes de cara nova: janela de vidro, ícones coloridos e uma barra lateral só com o que você usa. Uso e Captura viraram uma página só, com abas no topo, e os módulos desligados saem da lista (ligue em Módulos).</li><li>Página Sobre: versão, procurar atualizações e enviar feedback direto para quem faz o Isle.</li><li>Configuração inicial mais curta: as permissões vêm uma por vez, explicando para que servem, e um passo novo ensina os gestos da ilha.</li><li>Em Permissões, a Automação de um app fechado (Terminal, Música) agora tem o botão Verificar.</li></ul>]]></description>
+      <pubDate>Sat, 10 Oct 2026 12:51:39 GMT</pubDate>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>1.0.26</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/pedromamare/ilha-releases/releases/download/v1.0.26/Isle-1.0.26.dmg" sparkle:edSignature="3nMGI1VFS8b/2LpWO2LwskbTE5rJpPyQHFNOFnRdI4fu1XGD1mlxz/EWA75N9Z9fu+rnkWxF4LwGvHv28ZFGDA==" length="28781770" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Isle 1.0.25</title>
       <description xml:lang="en"><![CDATA[<h3>What's New</h3><ul><li>Create link is a single click: no question, the link goes straight to your clipboard and the notch lets you know. If you want the confirmation, turn it on in Settings › Capture › Upload.</li><li>The link opens a clean page with the image, ready to download or open the original. Images stay online for 60 days and are then deleted automatically; expired uploads leave the list on their own.</li></ul>]]></description>
       <description xml:lang="pt-BR"><![CDATA[<h3>Novidades</h3><ul><li>Criar link é um clique só: sem pergunta, o link já vai para a área de transferência e o notch avisa. Quem quiser a confirmação liga em Ajustes › Captura › Upload.</li><li>O link abre uma página bonita com a imagem, para baixar ou abrir o original. A imagem fica no ar por 60 dias e depois é apagada automaticamente; envios vencidos saem sozinhos da lista.</li></ul>]]></description>
