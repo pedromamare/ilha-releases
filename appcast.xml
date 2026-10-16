@@ -6,6 +6,16 @@
     <description>Versões do Ilha</description>
     <language>pt-BR</language>
     <item>
+      <title>Isle 1.1.2</title>
+      <description xml:lang="en"><![CDATA[<h3>What's New</h3><ul><li>Coffee with the lid closed: right-click the cup (or go to Settings › Control Center) and turn on &quot;Even with the lid closed&quot;. With coffee on, your Mac stays awake even when closed — the cup turns orange and steaming, with a laptop in the corner. The first time, macOS asks you to approve Isle in Login Items.</li><li>So it doesn&#x27;t overheat in your bag, it turns itself off when the battery drops below 15%, when your Mac gets too hot, or when Isle quits.</li></ul>]]></description>
+      <description xml:lang="pt-BR"><![CDATA[<h3>Novidades</h3><ul><li>Café com a tampa fechada: clique com o botão direito na xícara (ou vá em Ajustes › Central de Controle) e ligue &quot;Também com a tampa fechada&quot;. Com o café ligado, o Mac continua acordado mesmo fechado — a xícara fica laranja, fumegando, com um notebook no canto. Na primeira vez, o macOS pede para aprovar o Isle em Itens de Início.</li><li>Para não esquentar na mochila, volta ao normal sozinho com a bateria abaixo de 15%, com o Mac quente demais ou quando o Isle fecha.</li></ul>]]></description>
+      <pubDate>Fri, 16 Oct 2026 20:48:17 GMT</pubDate>
+      <sparkle:version>33</sparkle:version>
+      <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/pedromamare/ilha-releases/releases/download/v1.1.2/Isle-1.1.2.dmg" sparkle:edSignature="rYUaZn0U3wgNVjNoe46GlWvSjLCTMBOFuBIgibqNYwR4Ru7XpluF0UlIpOZpwcIftvxntY2ju824Ck+zRDGbCw==" length="29686316" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Isle 1.1.1</title>
       <description xml:lang="en"><![CDATA[<h3>What's New</h3><ul><li>The island is level now: one item on each side, with the same space on both. While music plays, the wave takes the place of the temperature and the coffee, which come back when it stops.</li><li>Hovering the AI icon shows your limits in a card, like the other icons, instead of opening the island.</li></ul>]]></description>
       <description xml:lang="pt-BR"><![CDATA[<h3>Novidades</h3><ul><li>A ilha ficou reta: um item de cada lado, com o mesmo espaço dos dois lados. Com música tocando, a onda toma o lugar da temperatura e do café, que voltam quando ela para.</li><li>Passar o mouse no ícone da IA mostra os limites num cartão, como nos outros ícones, em vez de abrir a ilha.</li></ul>]]></description>
