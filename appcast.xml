@@ -6,6 +6,16 @@
     <description>Versões do Ilha</description>
     <language>pt-BR</language>
     <item>
+      <title>Isle 1.1.6</title>
+      <description xml:lang="en"><![CDATA[<h3>What's New</h3><ul><li>Coffee with the lid closed: the fans go to full speed as soon as the option is on, with the lid open or closed, and go back to how they were when you turn it off. A notice on the island tells you when that happens.</li></ul>]]></description>
+      <description xml:lang="pt-BR"><![CDATA[<h3>Novidades</h3><ul><li>Café com a tampa fechada: as ventoinhas vão ao máximo assim que a opção passa a valer, com a tampa aberta ou fechada, e voltam ao que estavam quando ela é desligada. Um aviso na ilha conta quando isso acontece.</li></ul>]]></description>
+      <pubDate>Sat, 17 Oct 2026 21:21:40 GMT</pubDate>
+      <sparkle:version>37</sparkle:version>
+      <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/pedromamare/ilha-releases/releases/download/v1.1.6/Isle-1.1.6.dmg" sparkle:edSignature="aXL+yz7CmkwmmBR4qD0OLKRNRS8GvF7XPwolPO0sW05wOMiWQO2GvPb0Fi4omu12fQYFhREHZE2wHCVidW3bCA==" length="29766683" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Isle 1.1.5</title>
       <description xml:lang="en"><![CDATA[<h3>What's New</h3><ul><li>Fixed: turning on &quot;Even with the lid closed&quot; after updating Isle made the app quit.</li></ul>]]></description>
       <description xml:lang="pt-BR"><![CDATA[<h3>Novidades</h3><ul><li>Corrigido: ligar &quot;Também com a tampa fechada&quot; depois de atualizar o Isle fechava o app.</li></ul>]]></description>
