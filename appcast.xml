@@ -6,6 +6,16 @@
     <description>Versões do Ilha</description>
     <language>pt-BR</language>
     <item>
+      <title>Isle 1.1.9</title>
+      <description xml:lang="en"><![CDATA[<h3>What's New</h3><ul><li>Fixed: with a paused or expired license, the island locked but kept showing the temperature and the coffee cup, on the notch and on the external display island. It now stays empty until the license is back.</li></ul>]]></description>
+      <description xml:lang="pt-BR"><![CDATA[<h3>Novidades</h3><ul><li>Corrigido: com a licença pausada ou vencida, a ilha travava mas seguia mostrando a temperatura e o café, no notch e na ilha do monitor externo. Agora ela fica vazia até a licença voltar.</li></ul>]]></description>
+      <pubDate>Tue, 20 Oct 2026 11:34:16 GMT</pubDate>
+      <sparkle:version>40</sparkle:version>
+      <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/pedromamare/ilha-releases/releases/download/v1.1.9/Isle-1.1.9.dmg" sparkle:edSignature="ctUvdsoVwaquFYzMh2rADLfyzgoDIuFWSHWmfnoOkIoR8KXjZ3qfhIAiR+Ex5fUX5ziX6ykuWSCumLgkG2F5Dg==" length="29816983" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Isle 1.1.8</title>
       <description xml:lang="en"><![CDATA[<h3>What's New</h3><ul><li>Isle has a new identifier (it now belongs to APPLU). On first launch your settings and license come along; macOS may ask for your Keychain password once and will ask for permissions again (Accessibility, Screen Recording, Calendar…). If Isle doesn&#x27;t open at login, turn on &quot;Open at login&quot; in Settings.</li><li>Coffee with the lid closed: the first time, macOS asks you to approve Isle in Login Items again.</li></ul>]]></description>
       <description xml:lang="pt-BR"><![CDATA[<h3>Novidades</h3><ul><li>O Isle mudou de identificador (agora é da APPLU). Na primeira abertura, seus ajustes e sua licença vêm junto; o macOS pode pedir a senha do Chaveiro uma vez e vai pedir de novo as permissões (Acessibilidade, Gravação de Tela, Calendário…). Se o Isle não abrir sozinho no login, ligue &quot;Abrir no login&quot; nos Ajustes.</li><li>Café com a tampa fechada: na primeira vez, o macOS pede de novo para aprovar o Isle em Itens de Início.</li></ul>]]></description>
