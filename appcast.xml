@@ -6,6 +6,16 @@
     <description>Versões do Ilha</description>
     <language>pt-BR</language>
     <item>
+      <title>Isle 1.1.10</title>
+      <description xml:lang="en"><![CDATA[<h3>What's New</h3><ul><li>Fixed: in the hidden menu bar icons strip, an app could show up as a colored rectangle instead of its icon (the snapshot had caught a window in front of it). Isle now discards those snapshots and shows the app&#x27;s icon until it gets a good one.</li><li>Usage: the OpenCode sign-in is only ever sent to opencode.ai itself.</li></ul>]]></description>
+      <description xml:lang="pt-BR"><![CDATA[<h3>Novidades</h3><ul><li>Corrigido: na faixa dos ícones ocultos da barra de menus, um app podia aparecer como um retângulo colorido em vez do ícone (a foto tinha pegado uma janela na frente). Agora o Isle descarta essas fotos e mostra o ícone do app até tirar uma boa.</li><li>Uso: o login do OpenCode só é enviado para o próprio opencode.ai.</li></ul>]]></description>
+      <pubDate>Wed, 21 Oct 2026 22:26:29 GMT</pubDate>
+      <sparkle:version>41</sparkle:version>
+      <sparkle:shortVersionString>1.1.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/pedromamare/ilha-releases/releases/download/v1.1.10/Isle-1.1.10.dmg" sparkle:edSignature="GxzpeB9ylvQM/JB2RsC2V3/XRh+cPpCtjfJL0lnPhIfrCGQsl5/pVFr2wiycBvEnXl8CjMX6IML9k469lkNxDw==" length="29820244" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Isle 1.1.9</title>
       <description xml:lang="en"><![CDATA[<h3>What's New</h3><ul><li>Fixed: with a paused or expired license, the island locked but kept showing the temperature and the coffee cup, on the notch and on the external display island. It now stays empty until the license is back.</li></ul>]]></description>
       <description xml:lang="pt-BR"><![CDATA[<h3>Novidades</h3><ul><li>Corrigido: com a licença pausada ou vencida, a ilha travava mas seguia mostrando a temperatura e o café, no notch e na ilha do monitor externo. Agora ela fica vazia até a licença voltar.</li></ul>]]></description>
